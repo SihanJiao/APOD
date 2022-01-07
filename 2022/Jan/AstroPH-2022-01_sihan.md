@@ -21,6 +21,7 @@ Dense clumps in filaments have no obvious distinction in mass compared with thos
 
 ## 2022-01-07
 1.[Redshifted methanol absorption tracing infall motions of high-mass star formation regions](https://arxiv.org/abs/2201.01792)
+>infall, star-formation, high mass star-formation
 
+They test if redshifted CH3OH transitions absorption can be used to trace infall motions within high-mass star formation regions
 
-2.[New Massive Contacting Twin Binary in a Radio-quiet H II Region Associated with the M17 Complex](https://arxiv.org/abs/2201.01884)
