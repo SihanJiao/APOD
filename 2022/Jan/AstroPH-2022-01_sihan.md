@@ -19,3 +19,8 @@ Dense clumps in filaments have no obvious distinction in mass compared with thos
 
 <img src="Figures/image-2022010602.png" alt="image-2022010602" style="zoom:50%;" />
 
+## 2022-01-07
+1.[Redshifted methanol absorption tracing infall motions of high-mass star formation regions](https://arxiv.org/abs/2201.01792)
+
+
+2.[New Massive Contacting Twin Binary in a Radio-quiet H II Region Associated with the M17 Complex](https://arxiv.org/abs/2201.01884)
