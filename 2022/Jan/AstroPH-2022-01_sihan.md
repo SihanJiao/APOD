@@ -25,3 +25,30 @@ Dense clumps in filaments have no obvious distinction in mass compared with thos
 
 They test if redshifted CH3OH transitions absorption can be used to trace infall motions within high-mass star formation regions
 
+## 2022-01-10
+1.[Properties of Molecular Gas in Galaxies in Early and Mid Stages of Interaction. III. Resolved Kennicutt-Schmidt Law](https://arxiv.org/abs/2201.02270)
+
+2.[Discovery of C5H+ and detection of C3H+ in TMC-1 with the QUIJOTE line survey](https://arxiv.org/abs/2201.02434)
+
+3.[ALMA Survey of Orion Planck Galactic Cold Clumps (ALMASOP): A Hot Corino Survey toward Protostellar Cores in the Orion Cloud](https://arxiv.org/abs/2201.02497)
+
+## 2022-01-11
+1.[GOODS-ALMA 2.0: Starbursts in the main sequence reveal compact star formation regulating galaxy evolution prequenching](https://arxiv.org/abs/2201.02633)
+>galaxies evolution, star formation
+
+GOODS-ALMA 2.0 survey, an ALMA blind survey at 1.1 mm covering a continuous area of 72.42 arcmin2 using two array configurations.
+
+<img src="Figures/image-2022010602.png" alt="image-20220111-01" style="zoom:50%;" />
+<img src="Figures/image-2022010602.png" alt="image-20220111-02" style="zoom:50%;" />
+
+2.[Selective Element Depletion in the Orion Nebula Self-consistent grain depletions and abundances I: The Orion Nebula as a test case](https://arxiv.org/abs/2201.02882)
+
+3.[Dust distributions in the Magellanic Clouds](https://arxiv.org/abs/2201.03152)
+>: dust, extinction, Magellanic Clouds
+
+They present high-resolution maps of the dust reddening in the Magellanic Clouds (MCs), which have a spatial angular resolution between 26 arcsec and 55 arcmin, based on the data from the optical and near-infrared (IR) photometric surveys, including the Gaia Survey, the SkyMapper Southern
+Survey (SMSS), the Survey of the Magellanic Stellar History (SMASH), the Two Micron All Sky Survey (2MASS) and the near-infrared Y JKS VISTA survey of the Magellanic Clouds system (VMC).
+
+<img src="Figures/image-2022010602.png" alt="image-20220111-03" style="zoom:50%;" />
+
+
