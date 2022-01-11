@@ -38,8 +38,8 @@ They test if redshifted CH3OH transitions absorption can be used to trace infall
 
 GOODS-ALMA 2.0 survey, an ALMA blind survey at 1.1 mm covering a continuous area of 72.42 arcmin2 using two array configurations.
 
-<img src="Figures/image-2022010602.png" alt="image-20220111-01" style="zoom:50%;" />
-<img src="Figures/image-2022010602.png" alt="image-20220111-02" style="zoom:50%;" />
+<img src="Figures/image-20220111-01.png" alt="image-20220111-01" style="zoom:50%;" />
+<img src="Figures/image-20220111-02.png" alt="image-20220111-02" style="zoom:50%;" />
 
 2.[Selective Element Depletion in the Orion Nebula Self-consistent grain depletions and abundances I: The Orion Nebula as a test case](https://arxiv.org/abs/2201.02882)
 
@@ -49,6 +49,6 @@ GOODS-ALMA 2.0 survey, an ALMA blind survey at 1.1 mm covering a continuous area
 They present high-resolution maps of the dust reddening in the Magellanic Clouds (MCs), which have a spatial angular resolution between 26 arcsec and 55 arcmin, based on the data from the optical and near-infrared (IR) photometric surveys, including the Gaia Survey, the SkyMapper Southern
 Survey (SMSS), the Survey of the Magellanic Stellar History (SMASH), the Two Micron All Sky Survey (2MASS) and the near-infrared Y JKS VISTA survey of the Magellanic Clouds system (VMC).
 
-<img src="Figures/image-2022010602.png" alt="image-20220111-03" style="zoom:50%;" />
+<img src="Figures/image-20220111-03.png" alt="image-20220111-03" style="zoom:50%;" />
 
 
