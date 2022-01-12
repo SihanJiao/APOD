@@ -52,3 +52,33 @@ Survey (SMSS), the Survey of the Magellanic Stellar History (SMASH), the Two Mic
 <img src="Figures/image-20220111-03.png" alt="image-20220111-03" style="zoom:50%;" />
 
 
+## 2022-01-12
+1.[The ALMaQUEST Survey IX: The nature of the resolved star forming main sequence](https://arxiv.org/abs/2201.03592)
+>fundamental parameters, star formation
+
+ALMA-MaNGA QUEnching and STar formation (ALMaQUEST) survey.
+The extinction-corrected H𝛼 flux is then used to determine the star formation rate.
+The Partial Correlation Coefficient analysis shows that ΣSFR depends directly on just ΣH2 and has no intrinsic dependence on Σ∗.
+
+2.[***Dependence of XCO on metallicity, intensity, and spatial scale in a self-regulated interstellar medium](https://arxiv.org/abs/2201.03885)
+>X factor
+
+They have studied the CO-to-H2 conversion factor and the line ratio of CO(2–1) to CO(1–0) in high-resolution (∼0.2 pc) hydrodynamical simulations of a multiphase ISM across a wide range of metallicity (0.1 ≤ Z ≤ 3) in HSvD21.
+
+<img src="Figures/image-20220112-01.png" alt="image-20220112-01" style="zoom:50%;" />
+
+3.[The protoplanetary disk population in the rho-Ophiuchi region L1688 and the time evolution of Class II YSOs](https://arxiv.org/abs/2201.04079)
+>YSOs, star formation
+
+This paper provides a description of disk masses and mass accretion rates in the ρ-Oph region L1688, one of the richer and younger star-forming regions in the Solar neighbourhood.
+
+
+
+
+
+
+
+
+
+
+
