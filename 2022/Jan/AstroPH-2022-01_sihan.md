@@ -72,6 +72,17 @@ They have studied the CO-to-H2 conversion factor and the line ratio of CO(2–1)
 
 This paper provides a description of disk masses and mass accretion rates in the ρ-Oph region L1688, one of the richer and younger star-forming regions in the Solar neighbourhood.
 
+## 2022-01-13
+1.[The Panchromatic Hubble Andromeda Treasury: Triangulum Extended Region (PHATTER). III. The Mass Function of Young Star Clusters in M33](https://arxiv.org/abs/2201.04161 )
+>star formation law, star cluster
+
+The M33 CMF is not well described by a pure power law.
+This data adds evidence that there is a clear correlation between the cluster truncation mass Mc and ΣSFR.
+
+<img src="Figures/image-20220113-01.png" alt="iimage-20220113-01" style="zoom:50%;" />
+
+2.[Velocity structure of the 50 pc-long NGC 6334 filamentary cloud: Hints of multiple compressions and their impact on the cloud properties?](https://arxiv.org/abs/2201.04267)
+>star formation, clouds
 
 
 
