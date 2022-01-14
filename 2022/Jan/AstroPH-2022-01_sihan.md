@@ -84,6 +84,39 @@ This data adds evidence that there is a clear correlation between the cluster tr
 2.[Velocity structure of the 50 pc-long NGC 6334 filamentary cloud: Hints of multiple compressions and their impact on the cloud properties?](https://arxiv.org/abs/2201.04267)
 >star formation, clouds
 
+## 2022-01-13
+1.[The Rate, Amplitude and Duration of Outbursts from Class 0 Protostars in Orion](https://arxiv.org/abs/2201.04647 )
+>protostars, star formation
+
+In total, They show that bursts from Class 0 protostars are as frequent, or even more frequent, than those from more evolved protostars.
+
+
+2.[The 3D magnetic field morphology of the Perseus molecular cloud An arc-shaped morphology](https://arxiv.org/abs/2201.04718)
+>magnetic fields
+
+They use previous line-of-sight and plane-of-sky magnetic field observations, as well as Galactic magnetic field models, to
+reconstruct the complete 3D magnetic field vectors and morphology associated with the Perseus cloud.
+
+3.[B-fields in Star-Forming Region Observations (BISTRO): Magnetic Fields in the Filamentary Structures of Serpens Main](https://arxiv.org/abs/2201.05059)
+>magnetic fields
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
