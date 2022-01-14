@@ -84,7 +84,7 @@ This data adds evidence that there is a clear correlation between the cluster tr
 2.[Velocity structure of the 50 pc-long NGC 6334 filamentary cloud: Hints of multiple compressions and their impact on the cloud properties?](https://arxiv.org/abs/2201.04267)
 >star formation, clouds
 
-## 2022-01-13
+## 2022-01-14
 1.[The Rate, Amplitude and Duration of Outbursts from Class 0 Protostars in Orion](https://arxiv.org/abs/2201.04647 )
 >protostars, star formation
 
