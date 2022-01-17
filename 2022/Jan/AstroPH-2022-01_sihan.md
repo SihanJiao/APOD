@@ -110,7 +110,7 @@ components maps that contain structures of different sizes.
 <img src="Figures/image-20220117-01.png" alt="image-20220117-01" style="zoom:50%;" />
 
 
-1.[3D extinction mapping of the Milky Way using Convolutional Neural Networks: Presentation of the method and demonstration in the Carina Arm region](https://arxiv.org/abs/2201.05571)
+2.[3D extinction mapping of the Milky Way using Convolutional Neural Networks: Presentation of the method and demonstration in the Carina Arm region](https://arxiv.org/abs/2201.05571)
 > dust, extinction, deep learning
 
 They found deep learning to be a reliable approach to produce 3D extinction maps from large surveys.
