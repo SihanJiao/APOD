@@ -79,7 +79,7 @@ This paper provides a description of disk masses and mass accretion rates in the
 The M33 CMF is not well described by a pure power law.
 This data adds evidence that there is a clear correlation between the cluster truncation mass Mc and ΣSFR.
 
-<img src="Figures/image-20220113-01.png" alt="iimage-20220113-01" style="zoom:50%;" />
+<img src="Figures/image-20220113-01.png" alt="image-20220113-01" style="zoom:50%;" />
 
 2.[Velocity structure of the 50 pc-long NGC 6334 filamentary cloud: Hints of multiple compressions and their impact on the cloud properties?](https://arxiv.org/abs/2201.04267)
 >star formation, clouds
@@ -100,10 +100,22 @@ reconstruct the complete 3D magnetic field vectors and morphology associated wit
 3.[B-fields in Star-Forming Region Observations (BISTRO): Magnetic Fields in the Filamentary Structures of Serpens Main](https://arxiv.org/abs/2201.05059)
 >magnetic fields
 
+## 2022-01-17
+1.[Multi-Scale Decomposition of Astronomical Maps -- Constrained Diffusion Method](https://arxiv.org/abs/2201.05484)
+>image analysis
+
+They propose a new, efficient multi-scale method to decompose a map (or signal in general) into
+components maps that contain structures of different sizes.
+
+<img src="Figures/image-20220117-01.png" alt="image-20220117-01" style="zoom:50%;" />
 
 
+1.[3D extinction mapping of the Milky Way using Convolutional Neural Networks: Presentation of the method and demonstration in the Carina Arm region](https://arxiv.org/abs/2201.05571)
+> dust, extinction, deep learning
 
-
+They found deep learning to be a reliable approach to produce 3D extinction maps from large surveys.
+With this methodology, They expect to easily combine heterogeneous surveys without cross-matching, and therefore to exploit several surveys in a
+complementary fashion.
 
 
 
