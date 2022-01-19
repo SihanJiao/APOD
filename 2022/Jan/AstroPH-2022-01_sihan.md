@@ -117,6 +117,29 @@ They found deep learning to be a reliable approach to produce 3D extinction maps
 With this methodology, They expect to easily combine heterogeneous surveys without cross-matching, and therefore to exploit several surveys in a
 complementary fashion.
 
+## 2022-01-19
+1.[The Magnetic Field versus Density relation in Star-Forming Molecular Clouds](https://arxiv.org/abs/2201.05620)
+>magnetohydrodynamics, magnetic field, star formation
+
+Their simulations show that there is a distinguishable break density ρT between the relatively flat low density regime and a power-law regime at higher densities.
+
+2.[Milky Way and M31 rotation curves: ΛCDM vs. MOND](https://arxiv.org/abs/2201.06034)
+>MW, M31
+
+3.[***Spatially resolved star-formation relations of dense molecular gas in NGC 1068](https://arxiv.org/abs/2201.06552)
+>star formation, K-S law
+
+These results suggest that galactic dynamics plays a major role in the efficiency of the gas conversion into stars.
+Their work adds supporting evidence that density-threshold star formation models, which argue that the SFEdense should be roughly constant,
+fail to account for spatially resolved SF relations of dense gas in the SB ring of NGC 1068.
+
+
+
+
+
+
+
+
 
 
 
