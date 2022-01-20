@@ -133,6 +133,17 @@ These results suggest that galactic dynamics plays a major role in the efficienc
 Their work adds supporting evidence that density-threshold star formation models, which argue that the SFEdense should be roughly constant,
 fail to account for spatially resolved SF relations of dense gas in the SB ring of NGC 1068.
 
+## 2022-01-20
+1.[Spatially-resolved relation between [CI] 3P1-3P0 and 12CO (1-0) in Arp 220](https://arxiv.org/abs/2201.07418)
+>outflow, star formation
+
+They present 0.3'' (114 pc) resolution maps of [C I] (1–0) and 12CO (1–0) obtained toward Arp 220 with the ALMA data.
+The overall distribution of the [C I] (1–0) emission is consistent with the CO (1–0). While the [C I] (1–0) and CO (1–0) luminosities of the system follow the empirical linear relation for the unresolved ULIRG sample, they find a sublinear relation between [C I] (1–0) and CO (1–0) using the spatially-resolved data.
+
+2.[ATOMS: ALMA Three-millimeter Observations of Massive Star-forming regions -- VII. A catalogue of SiO clumps from ACA observations](https://arxiv.org/abs/2201.07533)
+>star formation
+
+
 
 
 
