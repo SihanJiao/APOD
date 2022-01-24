@@ -143,9 +143,21 @@ The overall distribution of the [C I] (1–0) emission is consistent with the CO
 2.[ATOMS: ALMA Three-millimeter Observations of Massive Star-forming regions -- VII. A catalogue of SiO clumps from ACA observations](https://arxiv.org/abs/2201.07533)
 >star formation
 
+## 2022-01-21
+1.[The half mass radius of MaNGA galaxies. I. Effect of IMF gradients](https://arxiv.org/abs/2201.07810)
+>outflow, star formation
+
+They present 0.3'' (114 pc) resolution maps of [C I] (1–0) and 12CO (1–0) obtained toward Arp 220 with the ALMA data.
+The overall distribution of the [C I] (1–0) emission is consistent with the CO (1–0). While the [C I] (1–0) and CO (1–0) luminosities of the system follow the empirical linear relation for the unresolved ULIRG sample, they find a sublinear relation between [C I] (1–0) and CO (1–0) using the spatially-resolved data.
+
+2.[Submillimeter pulsations from the magnetar XTE J1810-197](https://arxiv.org/abs/2201.07820)
+>star formation
+
+3.[Cool outflows in MaNGA: a systematic study and comparison to the warm phase](https://arxiv.org/abs/2201.08079)
+>star formation
 
 
-
+## 2022-01-24
 
 
 
