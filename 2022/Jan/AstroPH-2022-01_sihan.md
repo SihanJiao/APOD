@@ -159,6 +159,19 @@ The overall distribution of the [C I] (1–0) emission is consistent with the CO
 
 ## 2022-01-24
 
+## 2022-01-25
+1.[Magnetic Spirals in Accretion Flows Originated from Misaligned Magnetic Field](https://arxiv.org/abs/2201.08974)
+>magnetohydrodynamics, star formation, magnetic field
+
+2.[A large catalogue of molecular clouds in the southern sky](https://arxiv.org/abs/2201.09578)
+>cloud, extinction, gaia
+
+They present a large catalogue of molecular clouds with accurate distance estimates in the southern sky.
+Based on 3d dust extinction map and the best-fit extinction and distance information of over 17 million stars, they have identified 250 dust/molecular clouds in the southern sky using dendrogram algorithm.
+Amongst them, 71 clouds locating at high Galactic latitudes (𝑏 < −10deg).
+They have estimated the distances to the clouds by fitting the extinction versus distance profiles of the lines of sight overlapping with the clouds using a simple Gaussian dust distribution model.
+The typical uncertainties of the distances are less than 7 per cent.
+
 
 
 
