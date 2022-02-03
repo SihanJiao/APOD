@@ -9,10 +9,18 @@ In a legacy project called FIlaments Extremely Long and Dark: a MAgnetic Polariz
 2.[Non-star-forming molecular gas in the Abell 1367 intra-cluster multiphase orphan cloud](https://arxiv.org/abs/2201.11141 )
 > nearby galaxy cluster, gas, star-formation
 
+## 2022-02-03
+
+1.[*********The cold interstellar medium of galaxies in the Local Universe](https://arxiv.org/abs/2202.00690)
+> galaxy, gas, star-formation, galaxy evolution
+
+review
 
 
+2.[Star Formation Triggered by the expanding bubble S111](https://arxiv.org/abs/2202.00988)
+> Bubbles, gas, star-formation
 
-
+Based on the age of the H II region we conclude that this expanding H II region is responsible for the triggering of the current star formation activity in the region.
 
 
 
