@@ -38,6 +38,70 @@ review
 2.[Chemical exploration of Galactic cold cores](https://arxiv.org/abs/2202.02157)
 > molecular abundance
 
+## 2022-02-09
+
+1.[Different Formation Scenarios of Counter-rotating Stellar Disks in Nearby Galaxies](https://arxiv.org/abs/2202.03848)
+> dust, nearby galaxy
+
+## 2022-02-14
+
+1.[The co-evolution of molecular hydrogen and the grain size distribution in an isolated galaxy](https://arxiv.org/abs/2202.05521)
+> dust, nearby galaxy
+
+## 2022-02-15
+
+1.[Intermediate- and high-velocity clouds in the Milky Way I: covering factors and vertical heights](https://arxiv.org/abs/2202.05848)
+> dust, nearby galaxy
+
+
+2.[Intermediate- and high-velocity clouds in the Milky Way II: evidence for a Galactic fountain with collimated outflows and diffuse inflows](https://arxiv.org/abs/2202.05852)
+> dust, nearby galaxy
+
+3.[Strong spiral arms drive secular growth of pseudo bulges in disk galaxies](https://arxiv.org/abs/2202.06932)
+> dust, nearby galaxy
+
+
+## 2022-02-17
+
+1.[A Search for correlations between turbulence and star formation in THINGS galaxies](https://arxiv.org/abs/2202.08109)
+>
+
+## 2022-02-18
+
+1.[Sulphur-rich cold gas around the hot core precursor G328.2551-0.5321. An APEX unbiased spectral survey of the 2 mm, 1.2 mm, and 0.8 mm atmospheric windows](https://arxiv.org/abs/2202.08621)
+>
+
+## 2022-02-21
+
+1.[The VMC survey -- XLVII. Turbulence-Controlled Hierarchical Star Formation in the Large Magellanic Cloud](https://arxiv.org/abs/2202.09267)
+>
+
+## 2022-02-23
+
+1.[Survey of Orion Disks with ALMA (SODA) I: Cloud-level demographics of 873 protoplanetary disks](https://arxiv.org/abs/2202.11057)
+>
+
+2.[The SAMI Galaxy Survey: the difference between ionised gas and stellar velocity dispersions](https://arxiv.org/abs/2202.10469)
+>
+
+
+## 2022-02-24
+
+1.[Which galaxy property is the best gauge of the oxygen abundance?](https://arxiv.org/abs/2202.11651)
+>
+
+2.[ATOMS: ALMA Three-millimeter Observations of Massive Star-forming regions-IX. A pilot study towards IRDC G034.43+00.24 on multi-scale structures and gas kinematics](https://arxiv.org/abs/2202.11307)
+>
+
+ We confirm that the physical parameter that best correlates with the oxygen abundance is the stellar mass.
+
+
+
+
+
+
+
+
 
 
 
