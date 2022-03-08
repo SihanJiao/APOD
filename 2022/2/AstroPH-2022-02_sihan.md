@@ -76,6 +76,7 @@ review
 1.[The VMC survey -- XLVII. Turbulence-Controlled Hierarchical Star Formation in the Large Magellanic Cloud](https://arxiv.org/abs/2202.09267)
 >
 
+<<<<<<< HEAD
 ## 2022-02-23
 
 1.[Survey of Orion Disks with ALMA (SODA) I: Cloud-level demographics of 873 protoplanetary disks](https://arxiv.org/abs/2202.11057)
@@ -98,6 +99,8 @@ review
 
 
 
+=======
+>>>>>>> 31946d83dc5b7da42b63ec1a656ebfa3cb9d3de7
 
 
 
